@@ -79,3 +79,7 @@ const thoughtController = {
     },
 
 }
+
+module.exports = thoughtsController
+
+
